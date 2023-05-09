@@ -7,7 +7,7 @@ Computer Science Grad Student at Northeastern University
 As a computer science graduate student at Northeastern University, I have over two years of experience in web development with expertise in MERN stack and Java. I am also interested in machine learning and have completed several online courses in the field. I am seeking opportunities as a Software Engineer Intern in the US to utilize my skills in both full-stack development and machine learning. I am eager to learn new technologies, take on new challenges and work in a dynamic and innovative environment.
 
 * 🌍  I'm based in Boston, MA
-* 🧠  I'm learning Fast AI course
+* 🧠  I'm learning Fast AI
 * ⚡  Actively looking for Summer/ Fall 2023 internship/Coop
 
 ### Machine Learning

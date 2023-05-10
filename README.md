@@ -22,7 +22,7 @@ I am a highly skilled software engineer with expertise in full-stack web develop
 
 - Programming Languages: Javascript, Java, C++, Python, Kotlin
 - Web Development:  React, NodeJS, REST API, GraphQL, JQuery, CSS,Spring Boot
-- Tools and Technologies: Numpy, Pandas, Android App Development, Netflix OSS, Bitbucket, Jira, AWS, Jenkins,
+- Tools and Technologies: Numpy, Pandas, Keras, Fast AI, Hugging Face, Android App Development, Netflix OSS, Bitbucket, Jira, AWS, Jenkins,
 Docker,
 - Databases: MySql, Mongo DB, PostgreSQL
 - Cloud: Amazon Web Services !

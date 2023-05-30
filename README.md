@@ -2,23 +2,25 @@
 
 I am a highly skilled software engineer with expertise in full-stack web development and machine learning. With a 4.0 GPA in my MS in Computer Science from Northeastern University and 2 years of industry experience at Publicis Sapient, I have delivered high-quality solutions using technologies such as React, Node.js, Spring Boot, AWS, and Machine Learning.
 
-## Expertise :briefcase:
+## Expertise 🚀:
 
 ### Software Development (2 years) :computer:
 
-- Build things from scratch or re-build existing systems
-- Full Stack Web Development (mostly Back-end)
-- DevOps for any kind of organisation
-- Continous integration, deployment and delivery
+* 2 years of software development experience
+* Skilled in building and revamping systems
+* Proficient in full-stack web development with a focus on back-end
+* Experienced in implementing DevOps practices
+* Strong background in continuous integration, deployment, and delivery
 
 ### Machine Learning (2 years) :bulb:
 
-- Data Engineering and Processing
-- Build, Validate, Deploy and Scale Machine Learning/Deep Learning models
-- ML Ops
+* Proficient in advanced model development, including neural nets, NLP, CNNs, collaborative filtering, and random forests.
+* Skilled in deploying and scaling machine learning models for seamless integration with real-world applications.
+* Expertise in deep learning, including backpropagation, MLP, autoencoders.
+* Familiarity with advanced techniques such as accelerated SGD, ResNets, DDPM, dropout, mixed precision training, attention mechanisms, transformers, super-resolution, and latent diffusion.
 
 
-## Skills :wrench:
+## Technical Skills :wrench:
 
 - Programming Languages: Javascript, Java, C++, Python, Kotlin
 - Web Development:  React, NodeJS, REST API, GraphQL, JQuery, CSS,Spring Boot
@@ -32,9 +34,6 @@ Docker, Bitbucket, Jira
 - Master in Computer Science - Khoury College of Computer Sciences, Northeastern University, class of 2024
 - Bachelors Computer Science and Engineering - Vellore Institute of Technology, class of 2020
 
-## Reach out to me at: :vulcan_salute:
+## Reach out to me at: 📞:
 
-- [Email](mailto:naveen.p@northeastern.edu) :email:
-- [Phone](tel:8573132768) :iphone:
-- [LinkedIn](https://www.linkedin.com/in/pawan-kumar-naveen/) :tea:
-- [Personal Site](https://pawankumarn.com/) :beers:
+[Email](mailto:naveen.p@northeastern.edu) :email: | [Phone](tel:8573132768) :iphone: | [LinkedIn](https://www.linkedin.com/in/pawan-kumar-naveen/) 🔗: | [Personal Site](https://pawankumarn.com/) :beers:

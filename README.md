@@ -36,4 +36,4 @@ Docker, Bitbucket, Jira
 
 ## Reach out to me at: 📞:
 
-[Email](mailto:naveen.p@northeastern.edu) :email: | [Phone](tel:8573132768) :iphone: | [LinkedIn](https://www.linkedin.com/in/pawan-kumar-naveen/) 🔗: | [Personal Site](https://pawankumarn.com/) :beers:
+[Email](mailto:naveen.p@northeastern.edu) :email: | [Phone](tel:8573132768) :iphone: | [LinkedIn](https://www.linkedin.com/in/pawan-kumar-naveen/) 🔗: | 

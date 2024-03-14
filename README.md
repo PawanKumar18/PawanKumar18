@@ -22,12 +22,12 @@ I am a highly skilled software engineer with expertise in full-stack web develop
 
 ## Technical Skills :wrench:
 
-- Programming Languages: Javascript, Java, C++, Python, Kotlin
+- Programming Languages: Javascript, TypeScript, Java, C++, Python, Kotlin
 - Web Development:  React, NodeJS, REST API, GraphQL, JQuery, CSS,Spring Boot
 - Tools and Technologies: Numpy, Pandas, Keras, Fast AI, Hugging Face, Android App Development, Netflix OSS, Jenkins,
-Docker, Bitbucket, Jira
+Docker, Kubernetes, Bitbucket, Jira
 - Databases: MySql, Mongo DB, PostgreSQL
-- Cloud: Amazon Web Services !
+- Cloud: Azure, Amazon Web Services !
 
 ## Education :man_student:
 
